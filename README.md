@@ -1,6 +1,3 @@
-## 📚 Food Recipe App – README.md
-
-````markdown
 # 🍽️ Food Recipe App
 
 A responsive **Food Recipe Web Application** built with **React (Vite)** and **Tailwind CSS**, integrated with **TheMealDB API** for fetching recipe data.
@@ -70,15 +67,13 @@ Visit: [http://localhost:5173](http://localhost:5173)
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/1.png" width="250" />
-  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/2.png" width="250" />
-  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/3.png" width="250" />
+  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/1.jpg?raw=true" width="250" />
+  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/2.jpg?raw=true" width="250" />
+  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/3.jpg?raw=true" width="250" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/4.png" width="250" />
-  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/5.png" width="250" />
-  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/6.png" width="250" />
+  <img src="https://raw.githubusercontent.com/jatinrana331gm/foodRecipe---React-Vite/main/screenshots/4.jpg?raw=true" width="250" />
 </p>
 
 ---
@@ -145,3 +140,4 @@ Live Demo: [https://food-recipe-react-vite-bice.vercel.app](https://food-recipe-
      3. Import your GitHub repository.
      4. Click Deploy → Your app will be live at:
         [https://food-recipe-react-vite-bice.vercel.app](https://food-recipe-react-vite-bice.vercel.app)
+
